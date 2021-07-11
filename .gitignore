@@ -2,4 +2,7 @@
 *.rsc
 *.int
 *.lk
+
 *.zip
+*.sav
+output.txt
